@@ -20,7 +20,6 @@ int main(void)
 					putchar(c);
 					putchar(i);
 					putchar(k);
-					
 					if (c != '7')
 					{
 						putchar(',');
@@ -30,8 +29,8 @@ int main(void)
 			}
 		}
 	}
-
+	
 	putchar('\n');
-
+	
 	return (0);
 }
