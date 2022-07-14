@@ -1,1 +1,1 @@
-More projects on pointers and strings
+Projects on more pointers arrays and strings
