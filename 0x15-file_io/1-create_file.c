@@ -18,7 +18,6 @@ size_t _strlen(char *str)
 		;
 	return (i);
 }
-
 /**
  * create_file - creates a file.
  * @filename: name of the file to create
